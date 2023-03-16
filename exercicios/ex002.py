@@ -1,0 +1,6 @@
+nome = input('Qual é o seu nome? ')
+print('Bem vinda(o),{}! Prazer em te conhecer!' .format(nome))
+idade = input('Quantos anos você tem? ')
+print('Entendi!')
+local = input('Qual o nome da cidade em que você mora? ')
+print('Beleza. Sinto que já nos conhecemos!! <3')
